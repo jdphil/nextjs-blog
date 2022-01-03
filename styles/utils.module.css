@@ -1,5 +1,5 @@
 .heading2Xl {
-    font-size: 2.5rem;
+    font-size: 3rem;
     line-height: 1.2;
     font-weight: 800;
     letter-spacing: -0.05rem;
@@ -7,7 +7,7 @@
   }
   
   .headingXl {
-    font-size: 2rem;
+    font-size: 2.5rem;
     line-height: 1.3;
     font-weight: 800;
     letter-spacing: -0.05rem;
@@ -48,5 +48,5 @@
   }
   
   .lightText {
-    color: #666;
+    color: rgb(109, 84, 84);
   }
